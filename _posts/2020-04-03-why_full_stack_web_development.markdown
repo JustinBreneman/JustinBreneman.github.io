@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Full Stack Web Development"
-date:       2020-04-03 21:06:14 +0000
+date:       2020-04-03 17:06:15 -0400
 permalink:  why_full_stack_web_development
 ---
 
